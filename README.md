@@ -45,18 +45,6 @@ Sou estudante de **Engenharia de Software** na FIAP, com foco em desenvolvimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEstevess&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 📁 Projetos em Destaque
-
-<div align="center">
-  
-### 🌐 Projetos Web
-<a href="https://github.com/Augusto-Valerio/Airbnb-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Valerio&repo=Airbnb-Clone&theme=radical" />
-</a>
-<a href="https://github.com/Augusto-Valerio/Passa-a-Bola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Valerio&repo=Passa-a-Bola&theme=radical" />
-</a>
-
 ### 🎮 Aplicações Interativas
 <a href="https://github.com/Augusto-Valerio/GameStore-Catalogo-de-produtos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Valerio&repo=GameStore-Catalogo-de-produtos&theme=radical" />
