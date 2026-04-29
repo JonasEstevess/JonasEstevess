@@ -45,19 +45,6 @@ Sou estudante de **Engenharia de Software** na FIAP, com foco em desenvolvimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasEstevess&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-### 🎮 Aplicações Interativas
-<a href="https://github.com/Augusto-Valerio/GameStore-Catalogo-de-produtos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Valerio&repo=GameStore-Catalogo-de-produtos&theme=radical" />
-</a>
-<a href="https://github.com/Augusto-Valerio/Cadastro-jogadoras-CRUD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Augusto-Valerio&repo=Cadastro-jogadoras-CRUD&theme=radical" />
-</a>
-
-### 📸 Portfólio Fotográfico
-<a href="https://github.com/Marirsil/Photo_portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marirsil&repo=Photo_portfolio&theme=radical" />
-</a>
-
 </div>
 
 ## 🎯 Objetivos Atuais
