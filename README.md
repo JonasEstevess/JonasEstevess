@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Jonas Esteves!
 
+![Snake animation](https://github.com/JonasEstevess/JonasEstevess/blob/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
 </div>
