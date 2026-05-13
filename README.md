@@ -42,16 +42,9 @@ Sou estudante de **Engenharia de Software** na FIAP, com foco em desenvolvimento
 
 ## 🎯 Objetivos Atuais
 
-- 🔍 Buscando oportunidades de estágio em desenvolvimento de software
+- 🔍 Buscando oportunidades de estágio em T.I
 - 📚 Aprimorando conhecimentos em **Inteligência Artificial** e **Machine Learning**
 - 🌟 Contribuindo para projetos open-source
-- 🚀 Desenvolvendo meu portfólio pessoal
-
-## 📈 Contribuições Recentes
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasEstevess&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 📞 Vamos Conversar?
 
